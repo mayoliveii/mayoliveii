@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oiii! Eu sou a Mayara Oliveira
 
-<!--
-**mayoliveii/mayoliveii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando JS
+- 👩‍🎓 7° Fase de Engenharia de Petróleo - UDESC
+- 👩‍💻 Estagiária FullStack no Núcleo de Inovação Tecnológica da facul
+- ⚡ Fui aprovada no Processo Seletivo do Programa do Estágio Tech da Descomplica 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/mayoliveii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayoliveii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoliveii&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
