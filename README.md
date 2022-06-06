@@ -5,7 +5,7 @@
 - 🌱 Estudando JS
 - 👩‍🎓 7° Fase de Engenharia de Petróleo - UDESC
 - 👩‍💻 Estagiária FullStack no Núcleo de Inovação Tecnológica da facul
-- ⚡ Fui aprovada no Processo Seletivo do Programa do Estágio Tech da Descomplica 
+- ⚡ Fui aprovada no Processo Seletivo do Programa de Estágio Tech da Descomplica 
 
 <div align="center">
   <a href="https://github.com/mayoliveii">
