@@ -1,11 +1,10 @@
 ### Oiii! Eu sou a May, dev junior e futura engenheira!
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JS
+- 🔭 Aprendendo me divertindo 
 - 👩‍🎓 7° Fase de Engenharia de Petróleo - UDESC
-- 👩‍💻 Estagiária Front-end no Núcleo de Inovação Tecnológica da facul
-- ⚡ Fui aprovada no Processo Seletivo do Programa de Estágio Tech da Descomplica 
+- 👩‍💻 Estagiária de Engenharia de Software
+- ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
 
 <div align="center">
   <a href="https://github.com/mayoliveii">
