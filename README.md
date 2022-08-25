@@ -2,8 +2,8 @@
 
 
 - 🔭 Aprendendo me divertindo 
-- 👩‍🎓 7° Fase de Engenharia de Petróleo - UDESC
-- 👩‍💻 Estagiária de Engenharia de Software
+- 👩‍🎓 8° Fase de Engenharia de Petróleo - UDESC
+- 👩‍💻 Estagiária de Engenharia de Software na @Descomplica
 - ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
 
 <div align="center">
