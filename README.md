@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a May, dev junior e futura engenheira!
 
 
-- 🔭 Aprendendo me divertindo 
+- 🔭 Curiosa por coisas novas
 - 👩‍🎓 8° Fase de Engenharia de Petróleo - UDESC
 - 👩‍💻 Estagiária de Engenharia de Software na @Descomplica
 - ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
