@@ -3,7 +3,7 @@
 
 - 🔭 Curiosa por coisas novas
 - 👩‍🎓 8° Fase de Engenharia de Petróleo - UDESC e 2° semestre de ADS
-- 👩‍💻 Estagiária de Engenharia de Software
+- 👩‍💻 Desenvolvedora Web Júnior
 - ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
 
 <div align="center">
