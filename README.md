@@ -6,11 +6,7 @@
 - 👩‍💻 Desenvolvedora Web Júnior
 - ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
 
-<div align="center">
-  <a href="https://github.com/mayoliveii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayoliveii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoliveii&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
