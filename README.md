@@ -1,10 +1,9 @@
-### Oiii! Eu sou a May, dev junior e futura engenheira!
+### Um pouquinho sobre mim
 
 
 - 🔭 Curiosa por coisas novas
-- 👩‍🎓 8° Fase de Engenharia de Petróleo - UDESC e 2° semestre de ADS
-- 👩‍💻 Desenvolvedora Web Júnior
-- ⚡ Adoro desafios e como futura engenheira, resolver problemas hehe :) 
+- 👩‍🎓 3° Fase de Análise e Desenvolvimnto de Sistemas
+- 👩‍💻 Desenvolvedora Web Full StackJúnior
 
 
 <div style="display: inline_block"><br>
