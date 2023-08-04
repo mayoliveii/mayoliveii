@@ -1,9 +1,9 @@
 ### Um pouquinho sobre mim
 
 
-- 🔭 Curiosa por coisas novas
-- 👩‍🎓 3° Fase de Análise e Desenvolvimnto de Sistemas
-- 👩‍💻 Desenvolvedora Web Full StackJúnior
+- 🔭 Em constante aprendizado
+- 👩‍🎓 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas e Engenharia da Computação 
+- 👩‍💻 Desenvolvedora Full Stack Júnior na @Descomplica
 
 
 <div style="display: inline_block"><br>
