@@ -3,7 +3,7 @@
 
 - 🔭 Em constante aprendizado
 - 👩‍🎓 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas e Engenharia da Computação 
-- 👩‍💻 Desenvolvedora Full Stack Júnior na @Descomplica
+- 👩‍💻 Desenvolvedora Full Stack na @Descomplica
 
 
 <div style="display: inline_block"><br>
