@@ -1,9 +1,11 @@
-### Um pouquinho sobre mim
+## Um pouquinho sobre mim 💅
 
 
-- 🔭 Em constante aprendizado
-- 👩‍🎓 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas e Engenharia da Computação 
-- 👩‍💻 Desenvolvedora Full Stack na @Descomplica
+💻 Trabalho como Full Stack no @Descomplica<br>
+💬 Construindo meu futuro uma linha de código por vez <br>
+🎮 Graduanda em Engenharia da Computação (5/10) e Análise e Desenvolvimento de Sistemas (5/5)<br>
+📚 Aprendendo mais sobre Microsserviços, Patterns e Padrão Bulkhead ultimamente<br>
+🐶 Eu amo animais, minha casa sempre foi um mini zoológico  :) <br>
 
 
 <div style="display: inline_block"><br>
@@ -21,19 +23,19 @@
   <img align="center" alt="May-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 
   <img align="center" alt="May-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-
-                                                                                                                               
+                                                                                                                      
 </div>
-  
-  ##
+  <br>
+  <br>
+
 <div> 
+  
+  ## Me encontre aqui 👻
+
   <a href="https://www.youtube.com/channel/UCVpj1NdQqnviq_sSqb6SkTw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mayoliveii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/nGxrnCjm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mayoliveirablv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayaraoliveiraepet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
-  ![Snake animation](https://github.com/mayoliveii/mayoliveii/blob/output/github-contribution-grid-snake.svg)
-
                                                                                                                                
