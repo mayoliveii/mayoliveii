@@ -2,10 +2,10 @@
 
 
 💻 Trabalho como Full Stack no @Descomplica<br>
-💬 Construindo meu futuro uma linha de código por vez <br>
 🎮 Graduanda em Engenharia da Computação (5/10) e Análise e Desenvolvimento de Sistemas (5/5)<br>
 📚 Aprendendo mais sobre Microsserviços, Patterns e Padrão Bulkhead ultimamente<br>
 🐶 Eu amo animais, minha casa sempre foi um mini zoológico  :) <br>
+💬 Construindo meu futuro uma linha de código por vez <br>
 
 
 <div style="display: inline_block"><br>
