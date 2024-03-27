@@ -2,8 +2,9 @@
 
 
 💻 Trabalho como Full Stack no @Descomplica<br>
-🎮 Graduanda em Engenharia da Computação (6/10)<br>
 🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
+🎮 Graduanda em Engenharia da Computação (6/10)<br>
+👑 Embaixadora da [Ada Tech](https://ada.tech/)<br>
 📚 Aprendendo mais sobre Microsserviços, Patterns e Padrão Bulkhead ultimamente<br>
 🐶 Eu amo animais, minha casa sempre foi um mini zoológico  :) <br>
 💬 Construindo meu futuro uma linha de código por vez <br>
