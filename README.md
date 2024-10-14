@@ -3,7 +3,7 @@
 
 💻 Trabalho como Full Stack no @Descomplica<br>
 🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
-🎮 Graduanda em Engenharia da Computação (8/10)<br>
+🎮 Graduanda em Engenharia da Computação (9/10)<br>
 👑 Embaixadora da [Ada Tech](https://ada.tech/)<br>
 🐶 Eu amo animais, minha casa sempre foi um mini zoológico  :) <br>
 💬 Construindo meu futuro uma linha de código por vez <br>
@@ -32,11 +32,6 @@
 <div> 
   
   ## Me encontre aqui 👻
-
-  <a href="https://www.youtube.com/channel/UCVpj1NdQqnviq_sSqb6SkTw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mayoliveii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/nGxrnCjm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mayoliveirablv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayoliveii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
                                                                                                                                
