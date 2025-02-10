@@ -1,7 +1,5 @@
 ## Um pouquinho sobre mim 💅
 
-
-💻 Trabalho como Full Stack no @Descomplica<br>
 🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
 🎮 Graduanda em Engenharia da Computação (9/10)<br>
 👑 Embaixadora da [Ada Tech](https://ada.tech/)<br>
