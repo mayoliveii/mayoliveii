@@ -1,35 +1,56 @@
-## Um pouquinho sobre mim 💅
+## Olá, eu sou a Mayara Oliveira 👋
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
-🎮 Graduanda em Engenharia da Computação (9/10)<br>
-👑 Embaixadora da [Ada Tech](https://ada.tech/)<br>
-🐶 Eu amo animais, minha casa sempre foi um mini zoológico  :) <br>
-💬 Construindo meu futuro uma linha de código por vez <br>
+🌱 **Sobre mim**  
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (ADS)  
+- 🎓 Graduanda em Engenharia da Computação (previsão de formatura: jul/2025)  
+- 💼 GenAI Engineer na Curseduca  
+- 🚀 Embaixadora da [Ada Tech](https://ada.tech/) — promovendo educação em tecnologia gratuita  
+- 🐾 Entusiasta por animais (meu “mini zoológico” em casa me inspira todos os dias)
+
+---
+
+## 💼 O que eu faço
+
+### 🚀 Features de IA
+
+🔹 **Geração de Resumos Automatizados**  
+  Pipeline de IA que cria material de apoio para alunos.  
+🔹 **Personalização de Conteúdo Educacional**  
+  Modelos generativos que adaptam quizzes e exercícios ao perfil do estudante.  
+🔹 **Chatbots de Suporte ao Aluno**  
+  Assistentes conversacionais para tirada de dúvidas.
+
+### 💻 Desenvolvimento & DevOps
+
+🔹 **Otimização de Performance WordPress**  
+  Diagnóstico e aplicação de boas práticas (LCP, FCP, lazy-loading, WebP, caching).  
+🔹 **Desenvolvimento Front-end (Vue.js & React)**  
+  Construção de SPAs responsivas com Vue (Composition API) e React (hooks), estilização com TailwindCSS e testes unitários e end-to-end.
+🔹 **Microsserviços Node.js**  
+  Arquitetura de APIs em Node.js com PostgreSQL e Docker para alta escalabilidade.  
+🔹 **Infraestrutura com Docker & Redis**  
+  Contêineres e filas de mensagem para processamento eficiente de dados.
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="May-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-  <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="May-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="May-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="May-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="May-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="May-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-  <img align="center" alt="May-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="May-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="May-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+---
 
-  <img align="center" alt="May-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-                                                                                                                      
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 </div>
-  <br>
-  <br>
 
-<div> 
-  
-  ## Me encontre aqui 👻
-  <a href="https://www.linkedin.com/in/mayoliveii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-                                                                                                                               
+---
+
+## 📫 Me encontre aqui
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayoliveii/)
+
