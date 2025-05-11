@@ -42,7 +42,7 @@
   </a>
 </div>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayoliveii&theme=high-contrast&custom_title=Minhas%20contribuições%20recentes&hide_border=true)](https://github.com/mayoliveii/github-readme-activity-graph)
 ---
 
 ## 📫 Me encontre aqui
