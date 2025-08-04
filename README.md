@@ -2,10 +2,9 @@
 
 🌱 **Sobre mim**  
 - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas (ADS)  
-- 🎓 Graduanda em Engenharia da Computação (previsão de formatura: jul/2025)  
-- 💼 GenAI Engineer na Curseduca  
+- 🎓 Graduada em Engenharia da Computação 
+- 💼 Software Engineer na Curseduca  
 - 🚀 Embaixadora da [Ada Tech](https://ada.tech/) — promovendo educação em tecnologia gratuita  
-- 🐾 Entusiasta por animais (meu “mini zoológico” em casa me inspira todos os dias)
 
 ---
 
