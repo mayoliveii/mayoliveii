@@ -8,11 +8,6 @@
 
 ---
 
-## 💼 O que mais gosto de fazer
-![carbon (3)](https://github.com/user-attachments/assets/9e4dbbe1-3521-4ecf-bce9-566f917f7630)
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
