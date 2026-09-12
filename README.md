@@ -51,15 +51,3 @@ Engenheira de Software full stack com mais de 5 anos de experiência, hoje focad
     <td><img src="https://skillicons.dev/icons?i=git,github,figma" /></td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mayoliveii&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayoliveii/mayoliveii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
