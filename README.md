@@ -12,12 +12,12 @@
 
 ---
 
-Engenheira de Software focada em **produtos educacionais**, **arquiteturas escaláveis** e software **bem testado e orientado a dados**. Atuo de ponta a ponta — do design de API à experiência do usuário — com interesse forte em **IA aplicada a produto**: **RAG**, **bancos vetoriais** e integrações com **LLMs** para resolver problemas reais.
+Engenheira de Software focada em **produtos educacionais** e **arquiteturas escaláveis**, com força em **resolução de problemas** e na construção de **features com IA**. Atuo de ponta a ponta, do design de API à experiência do usuário, com interesse forte em **IA aplicada a produto**: **RAG**, **bancos vetoriais** e integrações com **LLMs** para resolver problemas reais.
 
 - 🏢 Software Engineer na **Waid** _(edtech, ex-Curseduca)_, construindo e mantendo plataformas em produção
 - 🧠 Foco em **arquitetura de software**, sistemas com **IA aplicada** e **qualidade/observabilidade**
 - 🔐 Interesse em **segurança de aplicações web** e exploração responsável
-- 🚀 Embaixadora da [**Ada Tech**](https://ada.tech/) — promovendo educação em tecnologia gratuita
+- 🚀 Embaixadora da [**Ada Tech**](https://ada.tech/), promovendo educação em tecnologia gratuita
 - 🎓 Engenharia da Computação · Técnico em Análise e Desenvolvimento de Sistemas
 
 ---
