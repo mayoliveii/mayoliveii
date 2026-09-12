@@ -1,7 +1,7 @@
 <h1 align="center">Mayara Oliveira</h1>
 
 <p align="center">
-  <strong>Software Engineer @ Waid</strong> &nbsp;·&nbsp; Sistemas escaláveis &amp; IA aplicada
+  <strong>AI Software Engineer @ Waid</strong> &nbsp;·&nbsp; Full Stack &amp; IA aplicada
 </p>
 
 <p align="center">
@@ -12,13 +12,14 @@
 
 ---
 
-Engenheira de Software focada em **produtos educacionais** e **arquiteturas escaláveis**, com força em **resolução de problemas** e na construção de **features com IA**. Atuo de ponta a ponta, do design de API à experiência do usuário, com interesse forte em **IA aplicada a produto**: **RAG**, **bancos vetoriais** e integrações com **LLMs** para resolver problemas reais.
+Engenheira de Software **full stack** com **mais de 5 anos de experiência**, hoje focada em **IA aplicada a produtos educacionais**. Sou forte em **resolução de problemas** e na construção de **features com IA** de ponta a ponta: **RAG**, **embeddings** e **busca semântica**, **transcrição de vídeos** e integrações com **LLMs** (**OpenAI** e **Google Gemini**) para resolver problemas reais.
 
-- 🏢 Software Engineer na **Waid** _(edtech, ex-Curseduca)_, construindo e mantendo plataformas em produção
-- 🧠 Foco em **arquitetura de software**, sistemas com **IA aplicada** e **qualidade/observabilidade**
+- 🏢 **AI Software Engineer** na **Waid** _(edtech, ex-Curseduca)_, criando features de IA para produtos educacionais
+- 🤖 **RAG**, **embeddings**, **busca semântica**, **transcrição de vídeos** e integração com **LLMs** (OpenAI e Google Gemini)
+- 🧩 Full stack em **TypeScript**: **React**, **Vue.js**, **Next.js**, **Node.js** e **NestJS**
 - 🔐 Interesse em **segurança de aplicações web** e exploração responsável
 - 🚀 Embaixadora da [**Ada Tech**](https://ada.tech/), promovendo educação em tecnologia gratuita
-- 🎓 Engenharia da Computação · Técnico em Análise e Desenvolvimento de Sistemas
+- 🎓 **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -56,10 +57,9 @@ Engenheira de Software focada em **produtos educacionais** e **arquiteturas esca
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayoliveii&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoliveii&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=mayoliveii&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mayoliveii&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/mayoliveii/mayoliveii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
