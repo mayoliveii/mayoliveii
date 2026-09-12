@@ -1,53 +1,69 @@
-## Olá, eu sou a Mayara Oliveira 👋
+<h1 align="center">Mayara Oliveira</h1>
 
-Sou **Software Engineer** com atuação em **produtos educacionais** e foco em soluções escaláveis, bem testadas e orientadas a dados.  
-Tenho experiência prática com **IA aplicada**, incluindo **RAG (Retrieval-Augmented Generation)**, **bancos vetoriais** e integrações com LLMs para resolver problemas reais de produto.
+<p align="center">
+  <strong>Software Engineer @ Waid</strong> &nbsp;·&nbsp; Sistemas escaláveis &amp; IA aplicada
+</p>
 
-🌱 **Sobre mim**  
-- 🎓 Engenheira da Computação 
-- 🎓 Tecnica em Análise e Desenvolvimento de Sistemas (ADS)  
-- 💼 Software Engineer na Curseduca  
-- 🚀 Embaixadora da [Ada Tech](https://ada.tech/) — promovendo educação em tecnologia gratuita  
-- 🧠 Interesses técnicos:
-  - Arquitetura de software
-  - Sistemas baseados em IA aplicada
-  - Segurança de aplicações web e exploração responsável
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayoliveii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ada.tech/">
+    <img src="https://img.shields.io/badge/Ada%20Tech-Embaixadora-8B5CF6?style=flat-square" alt="Ada Tech" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mayoliveii&color=8B5CF6&style=flat-square&label=profile+views" alt="Profile views" />
+</p>
+
 ---
 
-## 🚀 Tecnologias & Ferramentas
+Engenheira de Software focada em **produtos educacionais**, **arquiteturas escaláveis** e software **bem testado e orientado a dados**. Atuo de ponta a ponta — do design de API à experiência do usuário — com interesse forte em **IA aplicada a produto**: **RAG**, **bancos vetoriais** e integrações com **LLMs** para resolver problemas reais.
 
-### 🖥️ Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,nextjs,sass,css" />
-</div>
+- 🏢 Software Engineer na **Waid** _(edtech, ex-Curseduca)_, construindo e mantendo plataformas em produção
+- 🧠 Foco em **arquitetura de software**, sistemas com **IA aplicada** e **qualidade/observabilidade**
+- 🔐 Interesse em **segurança de aplicações web** e exploração responsável
+- 🚀 Embaixadora da [**Ada Tech**](https://ada.tech/) — promovendo educação em tecnologia gratuita
+- 🎓 Engenharia da Computação · Técnico em Análise e Desenvolvimento de Sistemas
 
-### ⚙️ Backend & APIs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
-</div>
-
-### 🗄️ Bancos de Dados & Cache
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</div>
-
-### ☁️ DevOps, Cloud & Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,jenkins" />
-</div>
-
-### 🧪 Testes, Observabilidade & Qualidade
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cypress,jest,sentry" />
-</div>
-
-### 🧰 Ferramentas & Outros
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,matlab" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayoliveii&theme=high-contrast&custom_title=Minhas%20contribuições%20recentes&hide_border=true)](https://github.com/mayoliveii/github-readme-activity-graph)
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayoliveii/)
+## 🛠️ Stack
 
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,sass,css" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; APIs</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" /></td>
+  </tr>
+  <tr>
+    <td><strong>Data &amp; Cache</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /></td>
+  </tr>
+  <tr>
+    <td><strong>DevOps &amp; Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,jenkins" /></td>
+  </tr>
+  <tr>
+    <td><strong>Qualidade &amp; Obs.</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,cypress,sentry" /></td>
+  </tr>
+  <tr>
+    <td><strong>Ferramentas</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayoliveii&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoliveii&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mayoliveii&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
+</p>
