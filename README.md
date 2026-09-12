@@ -12,14 +12,14 @@
 
 ---
 
-Engenheira de Software **full stack** com **mais de 5 anos de experiência**, hoje focada em **IA aplicada a produtos educacionais**. Sou forte em **resolução de problemas** e na construção de **features com IA** de ponta a ponta: **RAG**, **embeddings** e **busca semântica**, **transcrição de vídeos** e integrações com **LLMs** (**OpenAI** e **Google Gemini**) para resolver problemas reais.
+Engenheira de Software full stack com mais de 5 anos de experiência, hoje focada em IA aplicada a produtos educacionais. Sou forte em resolução de problemas e na construção de features com IA de ponta a ponta: RAG, embeddings e busca semântica, transcrição de vídeos e integrações com LLMs para resolver problemas reais.
 
-- 🏢 **AI Software Engineer** na **Waid** _(edtech, ex-Curseduca)_, criando features de IA para produtos educacionais
-- 🤖 **RAG**, **embeddings**, **busca semântica**, **transcrição de vídeos** e integração com **LLMs** (OpenAI e Google Gemini)
-- 🧩 Full stack em **TypeScript**: **React**, **Vue.js**, **Next.js**, **Node.js** e **NestJS**
-- 🔐 Interesse em **segurança de aplicações web** e exploração responsável
-- 🚀 Embaixadora da [**Ada Tech**](https://ada.tech/), promovendo educação em tecnologia gratuita
-- 🎓 **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**
+- 🏢 AI Software Engineer na Waid _(edtech, ex-Curseduca)_, criando features de IA para produtos educacionais
+- 🤖 RAG, embeddings, busca semântica, transcrição de vídeos e integração com LLMs
+- 🧩 Full stack em TypeScript: React, Vue.js, Next.js, Node.js e NestJS
+- 🔐 Interesse em segurança de aplicações web e exploração responsável
+- 🚀 Embaixadora da [Ada Tech](https://ada.tech/), promovendo educação em tecnologia gratuita
+- 🎓 Engenharia da Computação e Análise e Desenvolvimento de Sistemas
 
 ---
 
