@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/mayoliveii/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ada.tech/">
-    <img src="https://img.shields.io/badge/Ada%20Tech-Embaixadora-8B5CF6?style=flat-square" alt="Ada Tech" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mayoliveii&color=8B5CF6&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
 
 ---
